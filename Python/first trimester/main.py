@@ -1,0 +1,5 @@
+print('hola mundo')
+print('me llamo regina romano')
+print('voy en 9b')
+print('me gusta el chocolate')
+print('tengo mucho sueño')
